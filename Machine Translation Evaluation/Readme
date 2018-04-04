@@ -1,1 +1,2 @@
-This project implemented automatic machine translation evaluation, and first I use bleu and modified meteor(Giving the words with different scores due to their effect in a setence), and second I built a feature set from paper “Regression and Ranking based Optimization for Sentence Level Machine Translation Evaluation” and using SVM and randomForest to analyze them. And get about 70% accuracy.
+Automatic machine translation evaluation: first I use BLEU and modified meteor(Giving the words with different scores due to their effect in a sentence), and second I built a feature set from the paper “Regression and Ranking based Optimization for Sentence Level Machine Translation Evaluation” and using SVM and randomForest to analyze them. And get about 70% accuracy.
+
