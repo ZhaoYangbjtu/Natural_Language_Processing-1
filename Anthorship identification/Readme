@@ -1,3 +1,2 @@
 The aim of this project is to use Naive Bayes Classifier to classify some peotries between Emily Bronte and William Shakespeare.
-Feature set including length of each line of peotry, average word length, and n-gram of the peotry(n:1-5). And I also including
-some pos-tagging(using nltk package) codes to form the feature set.
+Feature set including length of each line of peotry, average word length, and n-gram of the peotry(n:1-5). And I also including some pos-tagging(using nltk package) codes to form the feature set.
