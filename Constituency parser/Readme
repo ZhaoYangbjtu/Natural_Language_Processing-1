@@ -1,0 +1,2 @@
+This project aims to build a build a parser that learned probability context-free grammer rules from train document.
+Implemented viterbi algorithm and apply the rules that we learnt to parse sentences. 
