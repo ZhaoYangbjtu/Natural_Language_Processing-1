@@ -1,5 +1,5 @@
-This project aims to build a build a parser that learned probability context-free grammer rules from train document.
-Implemented viterbi algorithm and apply the rules that we learnt to parse sentences. 
+Constituency parser: This project aims to build a build a parser that learned probability context-free grammar rules from train document.
+Implemented Viterbi algorithm and apply the rules that we learned to parse sentences.
 The result is: precision	0.920091324201
                recall	    0.855626326964
                F1	        0.886688668867
